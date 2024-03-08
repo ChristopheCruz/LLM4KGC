@@ -51,8 +51,8 @@ We also provide the inference scripts to directly acquire the generation results
 
 
 ## Future Work
-    - Enhance evaluation metrics for synonyms
-    - Investigate LLMs for data augmentation
-    - Evaluate fine-tuned models on diverse datasets
+- Enhance evaluation metrics for synonyms
+- Investigate LLMs for data augmentation
+- Evaluate fine-tuned models on diverse datasets
 
 ## License
