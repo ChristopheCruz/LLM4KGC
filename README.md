@@ -17,6 +17,10 @@ pip install -q -U git+https://github.com/huggingface/accelerate.git
 
 pip install -q -U datasets scipy ipywidgets matplotlib
 
+pip install rouge-score
+
+pip install bert-score
+
 ## Key Features
 
 - **Methods:** ZSP, FSP, FT
